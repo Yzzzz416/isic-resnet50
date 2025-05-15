@@ -6,7 +6,7 @@ A deep learning-based approach to classify skin lesions using the ISIC dataset. 
 
 ## 📦 Dataset
 
-- **Source:** [ISIC 2020 Challenge Dataset](https://www.kaggle.com/datasets/xhlulu/skin-cancer-mnist-ham10000)
+- **Source:** [JPEG ISIC 2019 256x256](https://www.kaggle.com/datasets/cdeotte/jpeg-isic2019-256x256)
 - **Type:** Dermoscopic images of skin lesions
 - **Size:** ~25,000 labeled images
 - **Task:** Binary classification (Benign vs. Malignant)
